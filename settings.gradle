@@ -1,0 +1,1 @@
+include ':app', ':phone', ':contacts', ':file', ':form', ':getImage', ':listviewasync', ':phoneService', ':popupwindow', ':sqlite', ':studentService', ':threaddownload', ':webservice', ':widget'

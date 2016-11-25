@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="F:\develop\android\Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/contacts" />
+            <option value="$PROJECT_DIR$/file" />
+            <option value="$PROJECT_DIR$/form" />
+            <option value="$PROJECT_DIR$/getImage" />
+            <option value="$PROJECT_DIR$/listviewasync" />
+            <option value="$PROJECT_DIR$/phone" />
+            <option value="$PROJECT_DIR$/phoneService" />
+            <option value="$PROJECT_DIR$/popupwindow" />
+            <option value="$PROJECT_DIR$/sqlite" />
+            <option value="$PROJECT_DIR$/studentService" />
+            <option value="$PROJECT_DIR$/threaddownload" />
+            <option value="$PROJECT_DIR$/webservice" />
+            <option value="$PROJECT_DIR$/widget" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/contacts" />
+            <option value="$PROJECT_DIR$/file" />
+            <option value="$PROJECT_DIR$/form" />
+            <option value="$PROJECT_DIR$/getImage" />
+            <option value="$PROJECT_DIR$/listviewasync" />
+            <option value="$PROJECT_DIR$/phone" />
+            <option value="$PROJECT_DIR$/phoneService" />
+            <option value="$PROJECT_DIR$/popupwindow" />
+            <option value="$PROJECT_DIR$/sqlite" />
+            <option value="$PROJECT_DIR$/studentService" />
+            <option value="$PROJECT_DIR$/threaddownload" />
+            <option value="$PROJECT_DIR$/webservice" />
+            <option value="$PROJECT_DIR$/widget" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

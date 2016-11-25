@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">file</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg">请输入文件名</string>
+    <string name="content">请输入内容</string>
+	<string name="button">保存</string>
+</resources>
